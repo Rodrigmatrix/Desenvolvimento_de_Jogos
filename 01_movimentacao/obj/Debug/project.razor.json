@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\rodri\\Documents\\Desenvolvimento_de_Jogos\\01_movimentacao\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
